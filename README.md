@@ -1,4 +1,3 @@
-Computer Science student with interests in theory of computation and functional programming
 <!---
 - 👋 Hi, I’m @transcendentalduncan
 - 👀 I’m interested in ...
